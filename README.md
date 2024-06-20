@@ -14,6 +14,8 @@ In our mobile development project, we began by designing a user-friendly interfa
 
 ### app-debug.apk
 
+https://github.com/capstone-silent-script/C241-PS108/assets/113133813/8e3cb37d-e354-472c-873c-d865b67c62c2
+
 ![app1](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/1b8e886d-6597-4722-8ef8-1ee4e3d47698)
 ![app5](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/d1f358d4-b9a9-4baa-9682-6b00dde27cc7)
 ![app2](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/3bc71798-d648-40ce-a093-3e9ee9558672)
