@@ -6,13 +6,11 @@ In our mobile development project, we began by designing a user-friendly interfa
 
 * SilentScript
 * [app](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/f9999252-9e3f-4cee-9734-eb7d8c3edee3)
-* src
-* main
 * AndroidManifest.xml
-* res
-* etc.
 
 ### app-debug.apk
+
+https://github.com/capstone-silent-script/C241-PS108/assets/113133813/f9999252-9e3f-4cee-9734-eb7d8c3edee3
 
 
 
