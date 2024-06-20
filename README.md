@@ -1,7 +1,7 @@
 <p align="center">
   <img align="center" width="400" src="img/logo.jpg" />
 </p>
-<h2 align="center">Communication Through Sign Language Without Limits</h2>
+<h2 align="center">Communicating Through Sign Language Without Limits</h2>
 
 <h3 align="center">Bangkit 2024 Capstone Team : C241-PS108</h3>
 
