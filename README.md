@@ -15,7 +15,7 @@ In our mobile development project, we began by designing a user-friendly interfa
 ### app-debug.apk
 
 <p align="center">
-  <img align="center" width="400" src="![app1](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/1b8e886d-6597-4722-8ef8-1ee4e3d47698)" />
+  <img align="center" width="400" src="(https://github.com/capstone-silent-script/C241-PS108/assets/113133813/1b8e886d-6597-4722-8ef8-1ee4e3d47698)" />
 </p>
 
 <p align="center">
