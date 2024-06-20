@@ -14,25 +14,12 @@ In our mobile development project, we began by designing a user-friendly interfa
 
 ### app-debug.apk
 
-<p align="center">
-  <img align="center" width="400" src="(https://github.com/capstone-silent-script/C241-PS108/assets/113133813/1b8e886d-6597-4722-8ef8-1ee4e3d47698)" />
-</p>
+![app1](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/1b8e886d-6597-4722-8ef8-1ee4e3d47698)
+![app5](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/d1f358d4-b9a9-4baa-9682-6b00dde27cc7)
+![app2](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/3bc71798-d648-40ce-a093-3e9ee9558672)
+![app4](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/bced52fc-54f8-4d15-9140-49eb3964f8c3)
+![app3](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/db75edbb-fa23-4bf2-8b60-de09eb0a695f)
 
-<p align="center">
-  <img align="center" width="400" src="![app5](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/d1f358d4-b9a9-4baa-9682-6b00dde27cc7)" />
-</p>
-
-<p align="center">
-  <img align="center" width="400" src="![app2](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/3bc71798-d648-40ce-a093-3e9ee9558672)" />
-</p>
-
-<p align="center">
-  <img align="center" width="400" src="![app4](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/bced52fc-54f8-4d15-9140-49eb3964f8c3)" />
-</p>
-
-<p align="center">
-  <img align="center" width="400" src="![app3](https://github.com/capstone-silent-script/C241-PS108/assets/113133813/db75edbb-fa23-4bf2-8b60-de09eb0a695f)" />
-</p>
 
 
 
